@@ -40,15 +40,15 @@ h3 {
 #cam {
     width: 80px;
     position: absolute;
-    top: 60;
+    top: 60px;
     left: 20;
 }
 
 #cam2 {
     width: 75px;
     position: absolute;
-    top: 70;
-    right: 17;
+    top: 70px;
+    right: 17px;
 }
 
 /* portfolio page, tags and classes*/
