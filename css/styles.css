@@ -38,14 +38,14 @@ h3 {
 }
 
 #cam {
-    width: 80;
+    width: 80px;
     position: absolute;
     top: 60;
     left: 20;
 }
 
 #cam2 {
-    width: 75;
+    width: 75px;
     position: absolute;
     top: 70;
     right: 17;
