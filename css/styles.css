@@ -27,7 +27,7 @@ body {
     margin: auto;
 }
 .divm {
-    margin: 50px 0 50px;
+    margin: 50px 0px 50px;
 }
 
 h3 {
@@ -41,7 +41,7 @@ h3 {
     width: 80px;
     position: absolute;
     top: 60px;
-    left: 20;
+    left: 20px;
 }
 
 #cam2 {
@@ -55,7 +55,7 @@ h3 {
 
 #ded {
     width: 80%;
-    margin: 20 auto;
+    margin: 20px auto;
     
 }
 
@@ -64,7 +64,7 @@ h3 {
 .pl {
     width: 70%;
     position: relative;
-    right: 40;
+    right: 40px;
 
 }
 
@@ -72,7 +72,7 @@ h3 {
     width: 70%;
     margin: 20px auto 0px;
     position: relative;
-    left: 40;
+    left: 40px;
 }
 
 .div2 {
